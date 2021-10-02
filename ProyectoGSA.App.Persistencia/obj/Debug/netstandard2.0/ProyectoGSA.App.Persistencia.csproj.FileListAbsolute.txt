@@ -1,0 +1,9 @@
+C:\Users\jhon.bejarano\Desktop\GCO\JB\Creacion_software\ProyectoGSA.App\ProyectoGSA.App.Persistencia\bin\Debug\netstandard2.0\ProyectoGSA.App.Persistencia.deps.json
+C:\Users\jhon.bejarano\Desktop\GCO\JB\Creacion_software\ProyectoGSA.App\ProyectoGSA.App.Persistencia\bin\Debug\netstandard2.0\ProyectoGSA.App.Persistencia.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\Creacion_software\ProyectoGSA.App\ProyectoGSA.App.Persistencia\bin\Debug\netstandard2.0\ProyectoGSA.App.Persistencia.pdb
+C:\Users\jhon.bejarano\Desktop\GCO\JB\Creacion_software\ProyectoGSA.App\ProyectoGSA.App.Persistencia\obj\Debug\netstandard2.0\ProyectoGSA.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\jhon.bejarano\Desktop\GCO\JB\Creacion_software\ProyectoGSA.App\ProyectoGSA.App.Persistencia\obj\Debug\netstandard2.0\ProyectoGSA.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\jhon.bejarano\Desktop\GCO\JB\Creacion_software\ProyectoGSA.App\ProyectoGSA.App.Persistencia\obj\Debug\netstandard2.0\ProyectoGSA.App.Persistencia.AssemblyInfo.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\Creacion_software\ProyectoGSA.App\ProyectoGSA.App.Persistencia\obj\Debug\netstandard2.0\ProyectoGSA.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\jhon.bejarano\Desktop\GCO\JB\Creacion_software\ProyectoGSA.App\ProyectoGSA.App.Persistencia\obj\Debug\netstandard2.0\ProyectoGSA.App.Persistencia.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\Creacion_software\ProyectoGSA.App\ProyectoGSA.App.Persistencia\obj\Debug\netstandard2.0\ProyectoGSA.App.Persistencia.pdb
