@@ -1,0 +1,428 @@
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\SGACOL.blazor.config
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\SGACOL.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\SGACOL.pdb
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Blazor.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Metadata.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.Options.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.Primitives.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.JSInterop.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Mono.Security.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Mono.WebAssembly.Interop.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\mscorlib.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\SGACOL.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Buffers.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\System.ComponentModel.Annotations.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Core.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\System.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Memory.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Net.Http.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Numerics.Vectors.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Text.Encodings.Web.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Text.Json.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Threading.Tasks.Extensions.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\wasm\mono.js
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\wasm\mono.wasm
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\blazor.server.js
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\blazor.webassembly.js
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\SGACOL.pdb
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\blazor.boot.json
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Blazor.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Components.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\Microsoft.Extensions.Options.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\Microsoft.Extensions.Primitives.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\Microsoft.JSInterop.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\Mono.WebAssembly.Interop.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\System.Buffers.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\System.Memory.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\System.Numerics.Vectors.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\System.Text.Encodings.Web.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\System.Text.Json.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\System.Threading.Tasks.Extensions.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\SGACOL.csprojAssemblyReference.cache
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\SGACOL.AssemblyInfoInputs.cache
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\SGACOL.AssemblyInfo.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\SGACOL.csproj.CoreCompileInputs.cache
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\SGACOL.RazorComponent.input.cache
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\App.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\SGACOL.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\SGACOL.TagHelpers.input.cache
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\SGACOL.TagHelpers.output.cache
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\SGACOL.RazorCoreGenerate.cache
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\Razor\App.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\Razor\Pages\Index.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\Razor\_Imports.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\SGACOL.RazorTargetAssemblyInfo.cache
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\SGACOL.csproj.CopyComplete
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\staticwebassets\SGACOL.StaticWebAssets.Manifest.cache
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\staticwebassets\SGACOL.StaticWebAssets.xml
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\SGACOL.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\SGACOL.pdb
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\inputs.linkerswitch.cache
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\inputs.basic.cache
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\inputs.copylocal.txt
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker.descriptor.xml
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\inputs.linker.cache
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linked.assemblies.txt
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Authorization.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Blazor.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Metadata.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.Options.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.Primitives.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.JSInterop.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Mono.Security.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Mono.WebAssembly.Interop.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\mscorlib.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\SGACOL.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\System.Buffers.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\System.ComponentModel.Annotations.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\System.Core.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\System.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\System.Memory.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\System.Net.Http.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\System.Numerics.Vectors.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\System.Text.Encodings.Web.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\System.Text.Json.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\System.Threading.Tasks.Extensions.dll
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\SGACOL.pdb
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\inputs.bootjson.cache
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\blazor.boot.json
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Perfil.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\Razor\Pages\Perfil.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Asignaturas.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Grupos.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Reportes.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\Razor\Pages\Asignaturas.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\Razor\Pages\Grupos.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\Razor\Pages\Reportes.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Shared\IntMenu.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\Razor\Shared\IntMenu.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Pages\NuevaPersona.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\Razor\Pages\NuevaPersona.razor.g.cs
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\SGACOL.blazor.config
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\SGACOL.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\SGACOL.pdb
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Authorization.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Blazor.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Metadata.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.Options.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.Primitives.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.JSInterop.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Mono.Security.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Mono.WebAssembly.Interop.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\mscorlib.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\SGACOL.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Buffers.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\System.ComponentModel.Annotations.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Core.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\System.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Memory.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Net.Http.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Numerics.Vectors.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Text.Encodings.Web.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Text.Json.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Threading.Tasks.Extensions.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\wasm\mono.js
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\wasm\mono.wasm
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\blazor.server.js
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\blazor.webassembly.js
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\SGACOL.pdb
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\dist\_framework\blazor.boot.json
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Authorization.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Blazor.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Blazor.HttpClient.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Components.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Components.Forms.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Components.Web.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Metadata.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\Microsoft.Extensions.Options.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\Microsoft.Extensions.Primitives.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\Microsoft.JSInterop.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\Mono.WebAssembly.Interop.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\System.Buffers.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\System.Memory.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\System.Numerics.Vectors.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\System.Text.Encodings.Web.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\System.Text.Json.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\bin\Debug\netstandard2.0\System.Threading.Tasks.Extensions.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\SGACOL.csproj.AssemblyReference.cache
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\SGACOL.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\SGACOL.AssemblyInfoInputs.cache
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\SGACOL.AssemblyInfo.cs
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\SGACOL.csproj.CoreCompileInputs.cache
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\SGACOL.RazorComponent.input.cache
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\App.razor.g.cs
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Asignaturas.razor.g.cs
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Counter.razor.g.cs
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Grupos.razor.g.cs
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Index.razor.g.cs
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Pages\NuevaPersona.razor.g.cs
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Perfil.razor.g.cs
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Reportes.razor.g.cs
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\_Imports.razor.g.cs
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\SGACOL.RazorComponent.output.cache
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\SGACOL.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\SGACOL.TagHelpers.input.cache
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\SGACOL.TagHelpers.output.cache
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\SGACOL.RazorCoreGenerate.cache
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\Razor\App.razor.g.cs
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\Razor\Pages\Asignaturas.razor.g.cs
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\Razor\Pages\Counter.razor.g.cs
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\Razor\Pages\FetchData.razor.g.cs
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\Razor\Pages\Grupos.razor.g.cs
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\Razor\Pages\Index.razor.g.cs
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\Razor\Pages\NuevaPersona.razor.g.cs
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\Razor\Pages\Perfil.razor.g.cs
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\Razor\Pages\Reportes.razor.g.cs
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\Razor\Shared\MainLayout.razor.g.cs
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\Razor\Shared\NavMenu.razor.g.cs
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\Razor\Shared\SurveyPrompt.razor.g.cs
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\Razor\_Imports.razor.g.cs
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\staticwebassets\SGACOL.StaticWebAssets.Manifest.cache
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\staticwebassets\SGACOL.StaticWebAssets.xml
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\scopedcss\bundle\SGACOL.styles.css
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\SGACOL.RazorTargetAssemblyInfo.cache
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\SGACOL.csproj.CopyComplete
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\SGACOL.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\SGACOL.pdb
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\inputs.linkerswitch.cache
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\inputs.basic.cache
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\inputs.copylocal.txt
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker.descriptor.xml
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\inputs.linker.cache
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linked.assemblies.txt
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Authorization.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Blazor.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Blazor.HttpClient.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Forms.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Web.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Metadata.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.DependencyInjection.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.Options.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.Primitives.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.JSInterop.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Mono.Security.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Mono.WebAssembly.Interop.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\mscorlib.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\SGACOL.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\System.Buffers.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\System.ComponentModel.Annotations.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\System.Core.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\System.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\System.Memory.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\System.Net.Http.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\System.Numerics.Vectors.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\System.Runtime.CompilerServices.Unsafe.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\System.Text.Encodings.Web.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\System.Text.Json.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\System.Threading.Tasks.Extensions.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\SGACOL.pdb
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\inputs.bootjson.cache
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\blazor.boot.json
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\SGACOL.blazor.config
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\SGACOL.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\SGACOL.pdb
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Authorization.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Blazor.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Metadata.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.Options.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.Primitives.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.JSInterop.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Mono.Security.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\Mono.WebAssembly.Interop.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\mscorlib.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\SGACOL.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Buffers.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\System.ComponentModel.Annotations.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Core.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\System.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Memory.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Net.Http.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Numerics.Vectors.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Text.Encodings.Web.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Text.Json.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Threading.Tasks.Extensions.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\dist\_framework\wasm\mono.js
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\dist\_framework\wasm\mono.wasm
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\dist\_framework\blazor.server.js
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\dist\_framework\blazor.webassembly.js
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\dist\_framework\_bin\SGACOL.pdb
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\dist\_framework\blazor.boot.json
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Authorization.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Blazor.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Components.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Components.Web.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Metadata.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\Microsoft.Extensions.Options.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\Microsoft.Extensions.Primitives.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\Microsoft.JSInterop.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\Mono.WebAssembly.Interop.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\System.Buffers.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\System.Memory.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\System.Numerics.Vectors.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\System.Text.Encodings.Web.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\System.Text.Json.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\bin\Debug\netstandard2.0\System.Threading.Tasks.Extensions.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\SGACOL.csproj.AssemblyReference.cache
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\SGACOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\SGACOL.AssemblyInfoInputs.cache
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\SGACOL.AssemblyInfo.cs
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\SGACOL.csproj.CoreCompileInputs.cache
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\SGACOL.RazorComponent.input.cache
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\App.razor.g.cs
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Asignaturas.razor.g.cs
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Grupos.razor.g.cs
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Pages\NuevaPersona.razor.g.cs
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Perfil.razor.g.cs
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Reportes.razor.g.cs
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\_Imports.razor.g.cs
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\SGACOL.RazorComponent.output.cache
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\SGACOL.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\SGACOL.TagHelpers.input.cache
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\SGACOL.TagHelpers.output.cache
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\SGACOL.RazorCoreGenerate.cache
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\Razor\App.razor.g.cs
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\Razor\Pages\Asignaturas.razor.g.cs
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\Razor\Pages\Counter.razor.g.cs
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\Razor\Pages\FetchData.razor.g.cs
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\Razor\Pages\Grupos.razor.g.cs
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\Razor\Pages\Index.razor.g.cs
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\Razor\Pages\NuevaPersona.razor.g.cs
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\Razor\Pages\Perfil.razor.g.cs
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\Razor\Pages\Reportes.razor.g.cs
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\Razor\Shared\MainLayout.razor.g.cs
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\Razor\Shared\NavMenu.razor.g.cs
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\Razor\_Imports.razor.g.cs
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\staticwebassets\SGACOL.StaticWebAssets.Manifest.cache
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\staticwebassets\SGACOL.StaticWebAssets.xml
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\scopedcss\bundle\SGACOL.styles.css
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\SGACOL.RazorTargetAssemblyInfo.cache
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\SGACOL.csproj.CopyComplete
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\SGACOL.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\SGACOL.pdb
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\inputs.linkerswitch.cache
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\inputs.basic.cache
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\inputs.copylocal.txt
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\linker.descriptor.xml
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\inputs.linker.cache
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\linked.assemblies.txt
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Authorization.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Blazor.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Forms.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Web.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Metadata.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Bcl.AsyncInterfaces.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.DependencyInjection.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.Logging.Abstractions.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.Options.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.Primitives.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Microsoft.JSInterop.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Mono.Security.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\linker\Mono.WebAssembly.Interop.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\linker\mscorlib.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\linker\SGACOL.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\linker\System.Buffers.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\linker\System.ComponentModel.Annotations.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\linker\System.Core.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\linker\System.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\linker\System.Memory.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\linker\System.Net.Http.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\linker\System.Numerics.Vectors.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\linker\System.Runtime.CompilerServices.Unsafe.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\linker\System.Text.Encodings.Web.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\linker\System.Text.Json.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\linker\System.Threading.Tasks.Extensions.dll
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\linker\SGACOL.pdb
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\inputs.bootjson.cache
+C:\AppVers2\ProyectoSGA.App\SGACOL\obj\Debug\netstandard2.0\blazor\blazor.boot.json
