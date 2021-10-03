@@ -7,3 +7,13 @@ C:\Users\jhon.bejarano\Desktop\GCO\JB\Creacion_software\ProyectoGSA.App\Proyecto
 C:\Users\jhon.bejarano\Desktop\GCO\JB\Creacion_software\ProyectoGSA.App\ProyectoGSA.App.Dominio\obj\Debug\netstandard2.0\ProyectoGSA.App.Dominio.csproj.CoreCompileInputs.cache
 C:\Users\jhon.bejarano\Desktop\GCO\JB\Creacion_software\ProyectoGSA.App\ProyectoGSA.App.Dominio\obj\Debug\netstandard2.0\ProyectoGSA.App.Dominio.dll
 C:\Users\jhon.bejarano\Desktop\GCO\JB\Creacion_software\ProyectoGSA.App\ProyectoGSA.App.Dominio\obj\Debug\netstandard2.0\ProyectoGSA.App.Dominio.pdb
+C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Dominio\obj\Debug\netstandard2.0\ProyectoGSA.App.Dominio.csproj.AssemblyReference.cache
+C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Dominio\obj\Debug\netstandard2.0\ProyectoGSA.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Dominio\obj\Debug\netstandard2.0\ProyectoGSA.App.Dominio.AssemblyInfoInputs.cache
+C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Dominio\obj\Debug\netstandard2.0\ProyectoGSA.App.Dominio.AssemblyInfo.cs
+C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Dominio\obj\Debug\netstandard2.0\ProyectoGSA.App.Dominio.csproj.CoreCompileInputs.cache
+C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Dominio\obj\Debug\netstandard2.0\ProyectoGSA.App.Dominio.dll
+C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Dominio\obj\Debug\netstandard2.0\ProyectoGSA.App.Dominio.pdb
+C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Dominio\bin\Debug\netstandard2.0\ProyectoGSA.App.Dominio.deps.json
+C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Dominio\bin\Debug\netstandard2.0\ProyectoGSA.App.Dominio.dll
+C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Dominio\bin\Debug\netstandard2.0\ProyectoGSA.App.Dominio.pdb
