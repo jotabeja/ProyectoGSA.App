@@ -23,7 +23,7 @@ namespace ProyectoGSA.App.Consola
             
             estudiante.nombres = "Andres";
             
-            Console.WriteLine("Instacia Estudiante "
+            Console.WriteLine("Instancia Estudiante "
                 + estudiante.nombres);
 
 
