@@ -3,7 +3,7 @@ namespace ProyectoGSA.App.Dominio.Entidades
 {
     public class Estudiante 
     {
-        public Estudiante(int id,  string nombres, string nacimiento, Persona padre, Persona madre)
+        public Estudiante(int id,  string nombres, string nacimiento, string padre, string madre)
         {
             this.id = id;
             this.nombres = nombres;
@@ -25,10 +25,9 @@ namespace ProyectoGSA.App.Dominio.Entidades
         public string mail { set; get; }
         public string direccion { set; get; }
         public string nacimiento { get; set; }
-        public Persona padre { get; set; }
-        public Persona madre { get; set; }
+        public string padre { get; set; }
+        public string madre { get; set; }
     }
-
 
 
 }

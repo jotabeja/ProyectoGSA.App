@@ -10,6 +10,7 @@ namespace ProyectoGSA.App.Dominio.Entidades
         public string telefono { set; get; }
         public string mail { set; get; }
         public string direccion { set; get; }
+
     }
 
 

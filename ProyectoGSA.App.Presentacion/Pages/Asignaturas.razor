@@ -1,0 +1,90 @@
+@page "/asignaturas"
+
+@inject HttpClient Http
+
+<h1>Asignaturas</h1>
+
+<p>Listado de asignaturas por grado</p>
+
+<hr>
+
+<div class="btn-group" role="group" aria-label="Basic mixed styles example">
+  <button type="button" class="btn btn-outline-primary">Left</button>
+  <button type="button" class="btn btn-outline-primary">Middle</button>
+  <button type="button" class="btn btn-outline-primary">Right</button>
+</div>
+<div class="b-example-divider"></div>
+
+<br>
+<div class="input-group mb-3">
+  <select class="form-select" id="inputGroupSelect02">
+    <option selected>Choose...</option>
+    <option value="1">One</option>
+    <option value="2">Two</option>
+    <option value="3">Three</option>
+  </select>
+  <label class="input-group-text" for="inputGroupSelect02">Options</label>
+</div>
+   <button type="button" class="btn btn-success">Nuevo  </button>
+
+<br>
+
+@if (asignaturas == null)
+{
+    <div class="spinner-border" role="status">
+  <span class="visually-hidden">Loading...</span>
+</div>
+}
+else
+{
+    <br>
+    <table class="table" >
+        <thead>
+            <tr>
+                <th>Area </th>
+                <th>Grado</th>
+                <th>Asignatura</th>
+                <th>Descripción</th>
+                <th>Opciones</th>
+                
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var asignatura in asignaturas)
+            {
+                <tr>
+                    <td>@asignatura.area</td>
+                    <td>@asignatura.grado</td>
+                    <td>@asignatura.nombre</td>
+                    <td>@asignatura.descripcion</td>
+                    <td><button type="button" class="btn btn-primary">Editar</button>
+                <button type="button" class="btn btn-danger">Eliminar</button></td>
+                </tr>
+            }
+                
+         
+        </tbody>
+    </table>
+}
+
+@code {
+    BaseAsignaturas[] asignaturas;
+
+    protected override async Task OnInitializedAsync()
+    {
+        asignaturas = await Http.GetJsonAsync<BaseAsignaturas[]>("sample-data/asignaturas.json");
+    }
+
+    public class BaseAsignaturas
+    {
+        public string area { get; set; }
+
+        public string grado { get; set; }
+
+        public string nombre { get; set; }
+
+       public string descripcion { get; set; }
+    }
+    
+    
+}

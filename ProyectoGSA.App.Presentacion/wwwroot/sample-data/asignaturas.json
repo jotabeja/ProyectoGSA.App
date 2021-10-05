@@ -1,0 +1,23 @@
+[
+{
+    "area": "Matemáticas",
+    "grado": "Primero",
+    "nombre": "Cálculo",
+    "descripcion": "Asignatura Cáculo"
+    
+  },
+  {
+    "area": "Sociales e Historia",
+    "grado": "Primero",
+    "nombre": "Ciencias Sociales",
+    "descripcion": "Asignatura Ciencias Sociales"
+    
+  },
+  {
+    
+    "area": "Lenguas",
+    "grado": "Primero",
+    "nombre": "Español",
+    "descripcion": "Asignatura Español"
+  }
+]

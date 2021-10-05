@@ -1,4 +1,5 @@
-﻿using System;
+﻿using System.IO.Pipes;
+using System;
 using ProyectoGSA.App.Dominio.Entidades;
 
 
@@ -22,9 +23,11 @@ namespace ProyectoGSA.App.Consola
             Estudiante estudiante = new Estudiante();
             
             estudiante.nombres = "Andres";
+            estudiante.madre = "Carmen";
+            estudiante.padre = "Jaime";
             
             Console.WriteLine("Instancia Estudiante "
-                + estudiante.nombres);
+                + estudiante.nombres + "Nombre Madre: " + estudiante.madre + "Nombre Padre: " + estudiante.padre);
 
 
 
