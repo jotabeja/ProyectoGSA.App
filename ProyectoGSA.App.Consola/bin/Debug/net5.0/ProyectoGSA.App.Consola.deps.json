@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ProyectoGSA.App.Consola/1.0.0": {
+        "dependencies": {
+          "ProyectoGSA.App.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "ProyectoGSA.App.Consola.dll": {}
+        }
+      },
+      "ProyectoGSA.App.Dominio/1.0.0": {
+        "runtime": {
+          "ProyectoGSA.App.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProyectoGSA.App.Consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProyectoGSA.App.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

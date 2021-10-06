@@ -1,0 +1,44 @@
+[
+    {
+      "apellidos": "Martinez Velazquez",
+      "nombres": "Carlos Andres",
+      "direccion": "Carrera 9 13",
+      "telefono": "3215287655"
+    },
+    {
+        "apellidos": "Beltran Martinez",
+        "nombres": "Ana Maria",
+        "direccion": "Calle 10 # 4-57",
+        "telefono": "3119760943"
+    },
+    {
+        "apellidos": "Urbina Tellez",
+        "nombres": "Claudia Marcela",
+        "direccion": "Calle 30 # 0-59",
+        "telefono": "354109704"
+    },
+    {
+        "apellidos": "Perez Gallo",
+        "nombres": "José Ricardo",
+        "direccion": "Transversal 58 # 6-54",
+        "telefono": "23254678"
+    },
+    {
+        "apellidos": "Beltran Martinez",
+        "nombres": "Ana Maria",
+        "direccion": "Calle 10 # 4-57",
+        "telefono": "3119760943"
+    },
+    {
+        "apellidos": "Beltran Martinez",
+        "nombres": "Ana Maria",
+        "direccion": "Calle 10 # 4-57",
+        "telefono": "3119760943"
+    },
+    {
+        "apellidos": "Urbina Tellez",
+        "nombres": "Claudia Marcela",
+        "direccion": "Calle 30 # 0-59",
+        "telefono": "354109704"
+    }
+]
