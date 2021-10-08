@@ -8,7 +8,7 @@ namespace ProyectoGSA.App.Consola
     {
         static void Main(string[] args)
         {
-            //Instancia de Objeto Persona
+           /* //Instancia de Objeto Persona
             Persona persona1 = new Persona();
             persona1.nombres = "Andres";
             persona1.apellidos = "Villamil";
@@ -24,9 +24,9 @@ namespace ProyectoGSA.App.Consola
             estudiante.nombres = "Andres";
             
             Console.WriteLine("Instancia Estudiante "
-                + estudiante.nombres);
+                + estudiante.nombres);*/
 
-
+            Console.WriteLine("Hello World!");
 
 
         }
