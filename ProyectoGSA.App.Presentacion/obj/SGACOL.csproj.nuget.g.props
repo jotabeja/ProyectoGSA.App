@@ -21,7 +21,6 @@
     <Import Project="$(NuGetPackageRoot)microsoft.aspnetcore.blazor.build\3.0.0-preview9.19424.4\build\netstandard1.0\Microsoft.AspNetCore.Blazor.Build.props" Condition="Exists('$(NuGetPackageRoot)microsoft.aspnetcore.blazor.build\3.0.0-preview9.19424.4\build\netstandard1.0\Microsoft.AspNetCore.Blazor.Build.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <PkgNewtonsoft_Json Condition=" '$(PkgNewtonsoft_Json)' == '' ">C:\Users\Andtrs Villamil\.nuget\packages\newtonsoft.json\10.0.1</PkgNewtonsoft_Json>
     <PkgMicrosoft_AspNetCore_Blazor_Mono Condition=" '$(PkgMicrosoft_AspNetCore_Blazor_Mono)' == '' ">C:\Users\Andtrs Villamil\.nuget\packages\microsoft.aspnetcore.blazor.mono\3.0.0-preview9.19421.1</PkgMicrosoft_AspNetCore_Blazor_Mono>
     <PkgMicrosoft_AspNetCore_Blazor_DevServer Condition=" '$(PkgMicrosoft_AspNetCore_Blazor_DevServer)' == '' ">C:\Users\Andtrs Villamil\.nuget\packages\microsoft.aspnetcore.blazor.devserver\3.0.0-preview9.19424.4</PkgMicrosoft_AspNetCore_Blazor_DevServer>
     <PkgMicrosoft_AspNetCore_Blazor_Build Condition=" '$(PkgMicrosoft_AspNetCore_Blazor_Build)' == '' ">C:\Users\Andtrs Villamil\.nuget\packages\microsoft.aspnetcore.blazor.build\3.0.0-preview9.19424.4</PkgMicrosoft_AspNetCore_Blazor_Build>

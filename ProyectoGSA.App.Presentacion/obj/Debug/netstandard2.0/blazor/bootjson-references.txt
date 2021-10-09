@@ -15,7 +15,6 @@ Microsoft.JSInterop.dll
 Mono.Security.dll
 Mono.WebAssembly.Interop.dll
 mscorlib.dll
-ProyectoGSA.App.Dominio.dll
 System.Buffers.dll
 System.ComponentModel.Annotations.dll
 System.Core.dll

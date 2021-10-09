@@ -54,7 +54,7 @@ using SGACOL.Shared;
         {
         }
         #pragma warning restore 1998
-#line 58 "C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\Shared\NavMenu.razor"
+#line 57 "C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\Shared\NavMenu.razor"
        
     bool collapseNavMenu = true;
 
