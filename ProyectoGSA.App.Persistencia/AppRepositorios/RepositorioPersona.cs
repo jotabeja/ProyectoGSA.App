@@ -22,7 +22,6 @@ namespace ProyectoGSA.App.Persistencia.AppRepositorios
             _appContext = appContext;
         }
 
-
         Persona IRepositorioPersona.AddPersona(Persona persona)
         {
             var personaAdicionada = _appContext.Personas.Add(persona);

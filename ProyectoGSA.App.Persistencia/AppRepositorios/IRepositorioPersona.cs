@@ -9,6 +9,7 @@ namespace ProyectoGSA.App.Persistencia.AppRepositorios
          //1. Obtener en una lista todos loss datos de la clase Persona
          IEnumerable<Persona> GetAllPersonas();
         //2. Retorna una persona para adicionar
+        
          Persona AddPersona(Persona persona);
          //3. Acutalizar una persona UPDATE
          Persona UpdatePersona(Persona persona);

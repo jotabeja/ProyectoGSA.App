@@ -16,19 +16,13 @@ namespace ProyectoGSA.App.Consola
 
         static void Main(string[] args)
         {
-          
-
             Console.WriteLine("Hello World! EF");
             //Para que inserte en la BD se incluye en el Main
             //AddEstudiante();
             //Busca un estudainte por ID
             BuscarEstudiante(2);
-
-
         }
-
         //Crear metodos de acceso a la aplicacion
-
         //Este metodo inserta un registro en la BD
         private static void AddEstudiante()
         {
