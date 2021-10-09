@@ -15,6 +15,7 @@ C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\obj\Debug\netstandard2.
 C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\obj\Debug\netstandard2.0\blazor\linker\Mono.Security.dll
 C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\obj\Debug\netstandard2.0\blazor\linker\Mono.WebAssembly.Interop.dll
 C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\obj\Debug\netstandard2.0\blazor\linker\mscorlib.dll
+C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\obj\Debug\netstandard2.0\blazor\linker\ProyectoGSA.App.Dominio.dll
 C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\obj\Debug\netstandard2.0\blazor\linker\SGACOL.dll
 C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\obj\Debug\netstandard2.0\blazor\linker\System.Buffers.dll
 C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\obj\Debug\netstandard2.0\blazor\linker\System.ComponentModel.Annotations.dll
@@ -27,4 +28,5 @@ C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\obj\Debug\netstandard2.
 C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\obj\Debug\netstandard2.0\blazor\linker\System.Text.Encodings.Web.dll
 C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\obj\Debug\netstandard2.0\blazor\linker\System.Text.Json.dll
 C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\obj\Debug\netstandard2.0\blazor\linker\System.Threading.Tasks.Extensions.dll
+C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\obj\Debug\netstandard2.0\blazor\linker\ProyectoGSA.App.Dominio.pdb
 C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\obj\Debug\netstandard2.0\blazor\linker\SGACOL.pdb

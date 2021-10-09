@@ -331,6 +331,16 @@
         "runtime": {
           "lib/netstandard2.0/System.Threading.Tasks.Extensions.dll": {}
         }
+      },
+      "ProyectoGSA.App.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ProyectoGSA.App.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProyectoGSA.App.Dominio.dll": {}
+        }
       }
     }
   },
@@ -1424,6 +1434,11 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "ProyectoGSA.App.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../ProyectoGSA.App.Dominio/ProyectoGSA.App.Dominio.csproj",
+      "msbuildProject": "../ProyectoGSA.App.Dominio/ProyectoGSA.App.Dominio.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1432,7 +1447,8 @@
       "Microsoft.AspNetCore.Blazor.Build >= 3.0.0-preview9.19424.4",
       "Microsoft.AspNetCore.Blazor.DevServer >= 3.0.0-preview9.19424.4",
       "Microsoft.AspNetCore.Blazor.HttpClient >= 3.0.0-preview9.19424.4",
-      "NETStandard.Library >= 2.0.3"
+      "NETStandard.Library >= 2.0.3",
+      "ProyectoGSA.App.Dominio >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1466,7 +1482,11 @@
       "frameworks": {
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\AppVers2\\ProyectoSGA.App\\ProyectoGSA.App.Dominio\\ProyectoGSA.App.Dominio.csproj": {
+              "projectPath": "C:\\AppVers2\\ProyectoSGA.App\\ProyectoGSA.App.Dominio\\ProyectoGSA.App.Dominio.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

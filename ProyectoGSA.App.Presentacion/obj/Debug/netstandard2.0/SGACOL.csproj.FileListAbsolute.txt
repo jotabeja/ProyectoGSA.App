@@ -569,3 +569,11 @@ C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\obj\Debug\netstandard2.
 C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\obj\Debug\netstandard2.0\blazor\blazor.boot.json
 C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Estudiante.razor.g.cs
 C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\obj\Debug\netstandard2.0\Razor\Pages\Estudiante.razor.g.cs
+C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\obj\Debug\netstandard2.0\RazorDeclaration\Pages\LiPersonas.razor.g.cs
+C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\bin\Debug\netstandard2.0\dist\_framework\_bin\ProyectoGSA.App.Dominio.dll
+C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\bin\Debug\netstandard2.0\dist\_framework\_bin\ProyectoGSA.App.Dominio.pdb
+C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\bin\Debug\netstandard2.0\ProyectoGSA.App.Dominio.dll
+C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\bin\Debug\netstandard2.0\ProyectoGSA.App.Dominio.pdb
+C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\obj\Debug\netstandard2.0\Razor\Pages\LiPersonas.razor.g.cs
+C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\obj\Debug\netstandard2.0\blazor\linker\ProyectoGSA.App.Dominio.dll
+C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\obj\Debug\netstandard2.0\blazor\linker\ProyectoGSA.App.Dominio.pdb
