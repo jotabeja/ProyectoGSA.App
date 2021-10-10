@@ -60,7 +60,7 @@ using ProyectoGSA.App.Dominio.Entidades;
         {
         }
         #pragma warning restore 1998
-#line 50 "C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\Pages\LiPersonas.razor"
+#line 52 "C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\Pages\LiPersonas.razor"
  
     public List<Persona> ListaPersonas = new List<Persona>();
     //public string id ="0";
@@ -71,16 +71,16 @@ using ProyectoGSA.App.Dominio.Entidades;
            persona1.id = 1;
            persona1.nombres = "Andres";
            persona1.apellidos = "Villamil";
-           /*persona1.identificacion = "79962837";
-           persona1.telefono = "2272783";
+           persona1.identificacion = "79962837";
+           /*persona1.telefono = "2272783";
            persona1.mail = "andres@gmail.com";
            persona1.direccion = "Calle 78 # 120 -90";*/
            Persona persona2 = new Persona();
            persona2.id = 2;
            persona2.nombres = "Diana";
            persona2.apellidos = "Villamil";
-           /*persona2.identificacion = "79962837";
-           persona2.telefono = "2272783";
+           persona2.identificacion = "79962837";
+           /*persona2.telefono = "2272783";
            persona2.mail = "andres@gmail.com";
            persona2.direccion = "Calle 78 # 120 -90"; */
 
