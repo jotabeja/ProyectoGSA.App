@@ -7269,11 +7269,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\AppVers2\\ProyectoSGA.App\\ProyectoGSA.App.Persistencia\\ProyectoGSA.App.Persistencia.csproj",
+      "projectUniqueName": "C:\\Prueba1\\ProyectoSGAbk2.App\\ProyectoGSA.App.Persistencia\\ProyectoGSA.App.Persistencia.csproj",
       "projectName": "ProyectoGSA.App.Persistencia",
-      "projectPath": "C:\\AppVers2\\ProyectoSGA.App\\ProyectoGSA.App.Persistencia\\ProyectoGSA.App.Persistencia.csproj",
+      "projectPath": "C:\\Prueba1\\ProyectoSGAbk2.App\\ProyectoGSA.App.Persistencia\\ProyectoGSA.App.Persistencia.csproj",
       "packagesPath": "C:\\Users\\Andtrs Villamil\\.nuget\\packages\\",
-      "outputPath": "C:\\AppVers2\\ProyectoSGA.App\\ProyectoGSA.App.Persistencia\\obj\\",
+      "outputPath": "C:\\Prueba1\\ProyectoSGAbk2.App\\ProyectoGSA.App.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -7294,8 +7294,8 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "C:\\AppVers2\\ProyectoSGA.App\\ProyectoGSA.App.Dominio\\ProyectoGSA.App.Dominio.csproj": {
-              "projectPath": "C:\\AppVers2\\ProyectoSGA.App\\ProyectoGSA.App.Dominio\\ProyectoGSA.App.Dominio.csproj"
+            "C:\\Prueba1\\ProyectoSGAbk2.App\\ProyectoGSA.App.Dominio\\ProyectoGSA.App.Dominio.csproj": {
+              "projectPath": "C:\\Prueba1\\ProyectoSGAbk2.App\\ProyectoGSA.App.Dominio\\ProyectoGSA.App.Dominio.csproj"
             }
           }
         }

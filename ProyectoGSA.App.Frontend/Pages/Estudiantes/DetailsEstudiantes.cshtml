@@ -1,0 +1,23 @@
+﻿@page
+@model ProyectoGSA.App.Frontend.Pages.DetailsEstudiantesModel
+@{
+}
+
+<h2>Datos detallados del Estudiante @Model.Estudiante.nombres</h2>
+<div>
+    Id: @Model.Estudiante.id
+</div>
+<div>
+    Nombres: @Model.Estudiante.nombres
+</div>
+<div>
+    Apellidos: @Model.Estudiante.apellidos
+</div>
+<div>
+    Telefono: @Model.Estudiante.telefono
+</div>
+<div>
+    Direccion: @Model.Estudiante.direccion
+</div>
+
+<a asp-page="./ListEstudiantes" class="btn-default">Volver a la Lista de Estudiantes</a>

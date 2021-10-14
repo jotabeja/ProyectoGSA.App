@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mQym4u5QZ1GmYwvZMnHzPFaSVYcI/IGYlx23s8JA6Y3OavitEZrAGJ/Qc6Ece9mNseD4WbwT9uR44+rHjj6z8w==",
+  "dgSpecHash": "ELb43FHe7Pz1jQLOq/l5Gw4Sjf0M2vjN4ybMZ91+tZL3vM54kdhzwJZKkXVUDoQa7UsCO7TdZUoQdNOgWAYasg==",
   "success": true,
-  "projectFilePath": "C:\\AppVers2\\ProyectoSGA.App\\ProyectoGSA.App.Presentacion\\SGACOL.csproj",
+  "projectFilePath": "C:\\Prueba1\\ProyectoSGAbk2.App\\ProyectoGSA.App.Presentacion\\SGACOL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andtrs Villamil\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.0.0-preview9.19424.4\\microsoft.aspnetcore.authorization.3.0.0-preview9.19424.4.nupkg.sha512",
     "C:\\Users\\Andtrs Villamil\\.nuget\\packages\\microsoft.aspnetcore.blazor\\3.0.0-preview9.19424.4\\microsoft.aspnetcore.blazor.3.0.0-preview9.19424.4.nupkg.sha512",

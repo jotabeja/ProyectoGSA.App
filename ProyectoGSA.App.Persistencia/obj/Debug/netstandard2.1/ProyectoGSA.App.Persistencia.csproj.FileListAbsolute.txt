@@ -11,3 +11,16 @@ C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Persistencia\obj\Debug\netstandard2.
 C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Persistencia\obj\Debug\netstandard2.1\ProyectoGSA.App.Persistencia.csproj.CopyComplete
 C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Persistencia\obj\Debug\netstandard2.1\ProyectoGSA.App.Persistencia.dll
 C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Persistencia\obj\Debug\netstandard2.1\ProyectoGSA.App.Persistencia.pdb
+C:\Prueba1\ProyectoSGAbk2.App\ProyectoGSA.App.Persistencia\bin\Debug\netstandard2.1\ProyectoGSA.App.Persistencia.deps.json
+C:\Prueba1\ProyectoSGAbk2.App\ProyectoGSA.App.Persistencia\bin\Debug\netstandard2.1\ProyectoGSA.App.Persistencia.dll
+C:\Prueba1\ProyectoSGAbk2.App\ProyectoGSA.App.Persistencia\bin\Debug\netstandard2.1\ProyectoGSA.App.Persistencia.pdb
+C:\Prueba1\ProyectoSGAbk2.App\ProyectoGSA.App.Persistencia\bin\Debug\netstandard2.1\ProyectoGSA.App.Dominio.dll
+C:\Prueba1\ProyectoSGAbk2.App\ProyectoGSA.App.Persistencia\bin\Debug\netstandard2.1\ProyectoGSA.App.Dominio.pdb
+C:\Prueba1\ProyectoSGAbk2.App\ProyectoGSA.App.Persistencia\obj\Debug\netstandard2.1\ProyectoGSA.App.Persistencia.csproj.AssemblyReference.cache
+C:\Prueba1\ProyectoSGAbk2.App\ProyectoGSA.App.Persistencia\obj\Debug\netstandard2.1\ProyectoGSA.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prueba1\ProyectoSGAbk2.App\ProyectoGSA.App.Persistencia\obj\Debug\netstandard2.1\ProyectoGSA.App.Persistencia.AssemblyInfoInputs.cache
+C:\Prueba1\ProyectoSGAbk2.App\ProyectoGSA.App.Persistencia\obj\Debug\netstandard2.1\ProyectoGSA.App.Persistencia.AssemblyInfo.cs
+C:\Prueba1\ProyectoSGAbk2.App\ProyectoGSA.App.Persistencia\obj\Debug\netstandard2.1\ProyectoGSA.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Prueba1\ProyectoSGAbk2.App\ProyectoGSA.App.Persistencia\obj\Debug\netstandard2.1\ProyectoGSA.App.Persistencia.csproj.CopyComplete
+C:\Prueba1\ProyectoSGAbk2.App\ProyectoGSA.App.Persistencia\obj\Debug\netstandard2.1\ProyectoGSA.App.Persistencia.dll
+C:\Prueba1\ProyectoSGAbk2.App\ProyectoGSA.App.Persistencia\obj\Debug\netstandard2.1\ProyectoGSA.App.Persistencia.pdb

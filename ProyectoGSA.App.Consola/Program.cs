@@ -20,20 +20,20 @@ namespace ProyectoGSA.App.Consola
             //Para que inserte en la BD se incluye en el Main
             //AddEstudiante();
             //Busca un estudainte por ID
-            BuscarEstudiante(2);
+            BuscarEstudiante(3);
         }
         //Crear metodos de acceso a la aplicacion
         //Este metodo inserta un registro en la BD
         private static void AddEstudiante()
         {
             var estudiante = new Estudiante{
-                nombres = "Diana",
-                apellidos = "Pachon",
-                identificacion = "5245621",
-                telefono = "3115282",
-                mail = "diana@gmail.com",
-                direccion = "Calle 100 No. 76 - 30",
-                nacimiento = "1986-08-11"
+                nombres = "Martha",
+                apellidos = "Gomez",
+                identificacion = "5369558",
+                telefono = "3125282",
+                mail = "artha@gmail.com",
+                direccion = "Calle 75 No. 6 - 30",
+                nacimiento = "1956-05-11"
 
             };
             _repositorioEstudiante.AddEstudiante(estudiante);
