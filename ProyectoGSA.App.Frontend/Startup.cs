@@ -25,8 +25,9 @@ namespace ProyectoGSA.App.Frontend
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
-            //services.AddSingleton<IRepositorioEstudiante, RepositorioEstudiante>();
-            services.AddSingleton<IRepositorioEstudiante, RepositorioEstudianteMemoria>();
+            services.AddSingleton<IRepositorioEstudiante, RepositorioEstudiante>();
+            //services.AddSingleton<IRepositorioEstudiante, RepositorioEstudianteMemoria>();
+            services.AddScoped<IRepositorioEstudiante, RepositorioEstudiante>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
