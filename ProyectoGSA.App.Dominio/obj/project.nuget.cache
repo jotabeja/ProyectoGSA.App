@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "g59Wu2tb7DtLiXOiN1gXs67d9ztIIuYzCCTZgJ7VLed3RtyCuhKCeAxrW8ZMppDpV/zqRGP64LdIi4qKmJHMkw==",
+  "dgSpecHash": "Lu97gGw3O+VL/DDsxy163TOqFtqwxRj0JDNCBw/wn3DXzrzpKd6XKkcgZM0qJ2TI8TBMXBQmMSRKl4Ig82mahQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jhon.bejarano\\Desktop\\GCO\\JB\\Creacion_software\\ProyectoGSA.App\\ProyectoGSA.App.Dominio\\ProyectoGSA.App.Dominio.csproj",
+  "projectFilePath": "C:\\Prueba1\\ProyectoSGAbk2.App\\ProyectoGSA.App.Dominio\\ProyectoGSA.App.Dominio.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jhon.bejarano\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\jhon.bejarano\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Andtrs Villamil\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Andtrs Villamil\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

@@ -7,3 +7,13 @@ C:\Users\jhon.bejarano\Desktop\GCO\JB\Creacion_software\ProyectoGSA.App\Proyecto
 C:\Users\jhon.bejarano\Desktop\GCO\JB\Creacion_software\ProyectoGSA.App\ProyectoGSA.App.Persistencia\obj\Debug\netstandard2.0\ProyectoGSA.App.Persistencia.csproj.CoreCompileInputs.cache
 C:\Users\jhon.bejarano\Desktop\GCO\JB\Creacion_software\ProyectoGSA.App\ProyectoGSA.App.Persistencia\obj\Debug\netstandard2.0\ProyectoGSA.App.Persistencia.dll
 C:\Users\jhon.bejarano\Desktop\GCO\JB\Creacion_software\ProyectoGSA.App\ProyectoGSA.App.Persistencia\obj\Debug\netstandard2.0\ProyectoGSA.App.Persistencia.pdb
+C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Persistencia\bin\Debug\netstandard2.0\ProyectoGSA.App.Persistencia.deps.json
+C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Persistencia\bin\Debug\netstandard2.0\ProyectoGSA.App.Persistencia.dll
+C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Persistencia\bin\Debug\netstandard2.0\ProyectoGSA.App.Persistencia.pdb
+C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Persistencia\obj\Debug\netstandard2.0\ProyectoGSA.App.Persistencia.csproj.AssemblyReference.cache
+C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Persistencia\obj\Debug\netstandard2.0\ProyectoGSA.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Persistencia\obj\Debug\netstandard2.0\ProyectoGSA.App.Persistencia.AssemblyInfoInputs.cache
+C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Persistencia\obj\Debug\netstandard2.0\ProyectoGSA.App.Persistencia.AssemblyInfo.cs
+C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Persistencia\obj\Debug\netstandard2.0\ProyectoGSA.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Persistencia\obj\Debug\netstandard2.0\ProyectoGSA.App.Persistencia.dll
+C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Persistencia\obj\Debug\netstandard2.0\ProyectoGSA.App.Persistencia.pdb

@@ -1,0 +1,29 @@
+﻿@page
+@model ProyectoGSA.App.Frontend.Pages.EditEstudiantesModel
+@{
+}
+
+<h2>Edición del Estudiante: @Model.Estudiante.nombres</h2>
+<form method="post">
+    <input type="hidden" asp-for="Estudiante.id"/>
+    <div class="form-group">
+        <label asp-for="Estudiante.nombres"></label>
+        <input asp-for="Estudiante.nombres" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="Estudiante.apellidos"></label>
+        <input asp-for="Estudiante.apellidos" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="Estudiante.telefono"></label>
+        <input asp-for="Estudiante.telefono" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="Estudiante.direccion"></label>
+        <input asp-for="Estudiante.direccion" class="form-control">
+    </div>
+    <button type="submit" class="btn btn-primary">Guardar</button>
+</form>
+
+
+<a asp-page="./ListEstudiantes" class="btn-default">Volver a la Lista de Estudiantes</a>

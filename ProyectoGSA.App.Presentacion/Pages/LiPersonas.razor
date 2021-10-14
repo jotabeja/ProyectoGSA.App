@@ -1,0 +1,81 @@
+@page "/lipersonas"
+@using ProyectoGSA.App.Dominio.Entidades;
+
+<h3>Listado de Personas</h3>
+<hr>
+
+    <br>
+    <table class="table" >
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nombres</th>
+                <th>Identificacion</th>
+                <th>Apellidos</th>
+                <th>Opciones</th>
+                
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var persona in ListaPersonas)
+            {
+                <tr>
+                    <td>@persona.id</td>
+                    <td>@persona.identificacion</td>
+                    <td>@persona.nombres</td>
+                    <td>@persona.apellidos</td>
+                    <td>
+                    <a class="btn btn-primary table-btn" asp-page="./lipersonas" asp-route-personaId="@persona.id">
+                        <i class="fas fa-address-book fa-lg" aria-hidden="true"></i>Detalle
+                    </a>
+                </td>
+                <td>
+                    <a class="btn btn-primary table-btn" asp-page="./lipersonas" asp-route-personaId="@persona.id">
+                        <i class="fas fa-address-book fa-lg" aria-hidden="true"></i>Editar
+                    </a>
+                </td>
+                <td>
+                    <a class="btn btn-danger table-btn" asp-page="./lipersonas" asp-route-personaId="@persona.id">
+                        <i class="fas fa-address-book fa-lg" aria-hidden="true"></i>Eliminar
+                    </a>
+                </td>
+                    
+                </tr>
+            }
+                
+         
+        </tbody>
+    </table>
+<a href="estudiante" class="btn btn-primary">Adicionar un Estudiante</a>
+
+@code
+{
+    public List<Persona> ListaPersonas = new List<Persona>();
+    //public string id ="0";
+
+        protected override Task OnInitializedAsync()
+        {
+           Persona persona1 = new Persona();
+           persona1.id = 1;
+           persona1.nombres = "Andres";
+           persona1.apellidos = "Villamil";
+           persona1.identificacion = "79962837";
+           /*persona1.telefono = "2272783";
+           persona1.mail = "andres@gmail.com";
+           persona1.direccion = "Calle 78 # 120 -90";*/
+           Persona persona2 = new Persona();
+           persona2.id = 2;
+           persona2.nombres = "Diana";
+           persona2.apellidos = "Villamil";
+           persona2.identificacion = "79962837";
+           /*persona2.telefono = "2272783";
+           persona2.mail = "andres@gmail.com";
+           persona2.direccion = "Calle 78 # 120 -90"; */
+
+            ListaPersonas.Add(persona1);
+            ListaPersonas.Add(persona2);
+
+            return base.OnInitializedAsync();
+        }
+
+}

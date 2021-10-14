@@ -1,0 +1,90 @@
+@page "/grupos"
+
+@inject HttpClient Http
+
+<h1>Estudiantes</h1>
+
+<p>Listado de estudiantes por curso</p>
+
+<hr>
+
+<div class="btn-group" role="group" aria-label="Basic mixed styles example">
+  <button type="button" class="btn btn-outline-primary">Left</button>
+  <button type="button" class="btn btn-outline-primary">Middle</button>
+  <button type="button" class="btn btn-outline-primary">Right</button>
+</div>
+<div class="b-example-divider"></div>
+
+<br>
+<div class="input-group mb-3">
+  <select class="form-select" id="inputGroupSelect02">
+    <option selected>Choose...</option>
+    <option value="1">One</option>
+    <option value="2">Two</option>
+    <option value="3">Three</option>
+  </select>
+  <label class="input-group-text" for="inputGroupSelect02">Options</label>
+</div>
+   <button type="button" class="btn btn-success">Nuevo  </button>
+
+<br>
+
+@if (estudiantes == null)
+{
+    <div class="spinner-border" role="status">
+  <span class="visually-hidden">Loading...</span>
+</div>
+}
+else
+{
+    <br>
+    <table class="table" >
+        <thead>
+            <tr>
+                <th>Apellidos </th>
+                <th>Nombres</th>
+                <th>Dirección</th>
+                <th>Teléfono</th>
+                <th>Opciones</th>
+                
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var estudiante in estudiantes)
+            {
+                <tr>
+                    <td>@estudiante.apellidos</td>
+                    <td>@estudiante.nombres</td>
+                    <td>@estudiante.direccion</td>
+                    <td>@estudiante.telefono</td>
+                    <td><button type="button" class="btn btn-primary">Editar</button>
+                <button type="button" class="btn btn-danger">Eliminar</button></td>
+                </tr>
+            }
+                
+         
+        </tbody>
+    </table>
+}
+
+@code {
+    BaseEstudiantes[] estudiantes;
+
+    protected override async Task OnInitializedAsync()
+    {
+        estudiantes = await Http.GetJsonAsync<BaseEstudiantes[]>("sample-data/estudiantes.json");
+    }
+
+    public class BaseEstudiantes
+    {
+        public string apellidos { get; set; }
+
+        public string nombres { get; set; }
+
+        public string direccion { get; set; }
+
+       public string telefono { get; set; }
+    }
+    
+    
+}
